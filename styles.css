@@ -45,7 +45,7 @@ h1,h2,h3,p{margin:0}
 
 /* навігація */
 .nav{padding-top:22px;padding-bottom:22px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px}
-.logo{display:flex;align-items:baseline;gap:8px;color:var(--ink);font-family:var(--serif);font-weight:600;font-size:26px;line-height:1}
+.logo{display:flex;flex-wrap:wrap;align-items:baseline;gap:0 8px;white-space:nowrap;color:var(--ink);font-family:var(--serif);font-weight:600;font-size:26px;line-height:1}
 .logo .script{font-size:32px;color:var(--accent)}
 .nav-links{display:flex;flex-wrap:wrap;align-items:center;gap:8px 28px}
 .nav-link{color:var(--ink);font-weight:500;font-size:15px;transition:color .2s}
