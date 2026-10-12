@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svitlanka-sweet-cake.vercel.app/sitemap.xml
